@@ -1,5 +1,5 @@
 #include <LSM6.h>
-#include <ic2_t3.h>
+#include <i2c_t3.h>
 #include <math.h>
 
 // Defines ////////////////////////////////////////////////////////////////
